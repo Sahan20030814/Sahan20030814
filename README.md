@@ -1,6 +1,8 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hi 👋, I'm Sahan Dilshan</b></h1>
+  <h1 align="center"><b>Hi<?b><a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="30px" />
+  </a><b>, I'm Sahan Dilshan</b></h1>
 </p>
 
 <p>
