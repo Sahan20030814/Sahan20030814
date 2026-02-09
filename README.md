@@ -59,8 +59,6 @@
 ## Languages, Frameworks, and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 <br>
 
-<img align="right" alt="Coding" width="180" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
