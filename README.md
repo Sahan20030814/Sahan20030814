@@ -8,7 +8,7 @@
   </a><b>, I'm Sahan Dilshan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="50"></b></h1>
 
 <p align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&height=20&lines=I+am+an+undergraduate+@+Birmingham+City+University;Frontend+%26+Backend+Developer;Mobile+%26+Desktop+App+Developer;Web+Application+Developer;Entrepreneur+in+Sri+Lanka">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&height=50&lines=I+am+an+undergraduate+@+Birmingham+City+University;Frontend+%26+Backend+Developer;Mobile+%26+Desktop+App+Developer;Web+Application+Developer;Entrepreneur+in+Sri+Lanka">
 </p>
 
  <p  align="center">
