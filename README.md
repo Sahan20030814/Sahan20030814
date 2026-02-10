@@ -8,7 +8,7 @@
   </a><b>, I'm Sahan Dilshan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="50"></b></h1>
 
 <p align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&height=50&lines=I+am+an+undergraduate+@+Birmingham+City+University;Frontend+%26+Backend+Developer;Mobile+%26+Desktop+App+Developer;Web+Application+Developer;Entrepreneur+in+Sri+Lanka">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&height=50&lines=I+am+an+undergraduate+@+Birmingham+City+University;Full-Stack+Developer;Mobile+%26+Desktop+App+Developer;Web+Application+Developer;Entrepreneur+in+Sri+Lanka">
 </p>
 
  <p  align="center">
@@ -39,7 +39,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-### I am a versatile 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 from Sri Lanka
+### I am a versatile 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 from Sri Lanka
 - 🔭 I’m currently working on a **Goods Delivery Drone (Hexacopter)** project 🚁
 - 🌱 I’m currently learning **Android Development** and **Advanced Robotics** 📱
 - 👯 I’m looking to collaborate with other Developers on **Open Source Projects** 🤝
