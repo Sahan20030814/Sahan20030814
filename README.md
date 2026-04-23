@@ -104,7 +104,7 @@
   <br />
   <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Sahan20030814&show_icons=true&theme=dark" width="48%" />
   <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan20030814&theme=dark&layout=compact" width="48%" />
+  <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Sahan20030814&theme=dark" width="48%" />
 </div>
 <br>
 
