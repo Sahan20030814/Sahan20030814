@@ -115,7 +115,7 @@
 
 ## Github Contribution Graph 📈 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahan20030814&bg_color=0D1117&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahan20030814&bg_color=0D1117&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true&v=1" alt="Sahan's Activity Graph" />
 </div>
 
 <p  align="center">
