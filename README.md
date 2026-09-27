@@ -41,7 +41,7 @@
 
 ### I am a versatile 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 from Sri Lanka
 - 🔭 I’m currently working on a **Goods Delivery Drone (Hexacopter)** project 🚁
-- 🌱 I’m currently learning **Android Development** and **Advanced Robotics** 📱
+- 🌱 I’m currently diving deep into **Advanced Object-Oriented Design Patterns** and **Advanced Robotics** ⚙️
 - 👯 I’m looking to collaborate with other Developers on **Open Source Projects** 🤝
 - 💬 Ask me about **React Native, Java, Web Development, or Robotics** 💻
 - 📬 How to reach me: [Let's get in touch!][linkedin]
